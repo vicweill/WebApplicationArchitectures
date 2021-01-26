@@ -1,0 +1,68 @@
+body {
+	margin: 0 auto;
+	font-family: "Open Sans",sans-serif;
+	font-size: larger;
+    color: rgb(48, 48, 48);
+}
+
+body {
+    line-height: 1;
+	background-color: #A6A6A6;
+}
+
+h1 { 
+	font-family: "Open Sans", sans-serif; 
+	font-style: bold; 
+	font-variant: bold;
+} 
+
+title {
+	font-size:"5vw";
+}
+
+h2 {
+    margin-top: 1em;
+	padding-top: 1em;
+	margin-left: 50px;
+}
+
+p {
+	font-size: large;
+}
+
+a {
+    color: #b8002e;
+}
+
+img {
+	width: max-content;
+	position: center;
+}
+
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    overflow: auto;
+	background-color: #333;
+	font-size: large;
+}
+
+.nav li {
+    float: left;
+}
+
+.nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav li a:hover {
+    background-color: rgb(87, 87, 87);
+}
+
+.center {
+	text-align: center;
+  }
